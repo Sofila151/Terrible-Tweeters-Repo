@@ -1201,6 +1201,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pause Menu
       objectReference: {fileID: 0}
+    - target: {fileID: 7381882329010722343, guid: 55195293a11fb1446bcdddbb412939d0, type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381882329010722343, guid: 55195293a11fb1446bcdddbb412939d0, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381882329010722343, guid: 55195293a11fb1446bcdddbb412939d0, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1346,7 +1358,7 @@ PrefabInstance:
       objectReference: {fileID: 6627700628009504422, guid: 4a8391118fe041d4dbaa5bb24eda0003, type: 2}
     - target: {fileID: 533659480583391519, guid: 3dd068851b8868e4abfa742001d5f126, type: 3}
       propertyPath: orthographic size
-      value: 8.955833
+      value: 5.147225
       objectReference: {fileID: 0}
     - target: {fileID: 1837899701993628974, guid: 3dd068851b8868e4abfa742001d5f126, type: 3}
       propertyPath: m_LocalPosition.x
