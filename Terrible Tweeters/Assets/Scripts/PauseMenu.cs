@@ -53,8 +53,8 @@ public class PauseMenu : MonoBehaviour
     public void Restart()
     {
         Debug.Log("Restarting Game..");
+        Time.timeScale = 1.0f;
         SceneManager.LoadScene("Level 1");
-        Time.timeScale = 1f;
     }
     }
 
